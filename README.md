@@ -8,6 +8,7 @@ https://www.jetbrains.com/idea/download/#section=windows
 
 ChromeDriver
 https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json
 
 Java SE Development Kit:
